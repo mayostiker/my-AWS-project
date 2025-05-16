@@ -1,0 +1,1 @@
+To design and implement a secure, scalable, and maintainable AWS cloud environment for the development and engineering teams at Data Lake Limited, integrating with the corporate network and existing Microsoft Active Directory.
